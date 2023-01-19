@@ -1,4 +1,4 @@
-package ru.netology.conditional;
+package ru.netology.conditional.profiles;
 
 public class ProductionProfile implements SystemProfile {
     @Override
